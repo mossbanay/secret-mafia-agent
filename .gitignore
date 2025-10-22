@@ -1,0 +1,12 @@
+.DS_Store
+.venv
+.mypy_cache
+.ruff_cache
+__pycache__
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+*.swp
+game_results.db-shm
+game_results.db-wal
